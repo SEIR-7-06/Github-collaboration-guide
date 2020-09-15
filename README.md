@@ -40,8 +40,6 @@
 - Make sure everyone knows there are new changes available to be pulled down.
 - **EVERYONE** save edits to working branch and and update all local branches.
     - `git add -A && git commit -m "message"` in working branch.
-    - `git checkout master`
-    - `git pull origin master` (resolve conflicts if any)
     - `git checkout submaster`
     - `git pull origin submaster` (resolve conflicts if any)
     - `git checkout <branch name>`

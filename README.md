@@ -35,8 +35,8 @@
     - `git push origin <branch name>`
 
 - Go to public repo on github and create a new pull request from **Your Branch** to **submaster**.
-- Ask a team member to validate and submit your pull request on github.
-- **If all team mates agree** and **there are no conflicts** merge submaster into master.
+- Ask a team member to validate your pull request on github.
+- **If all team mates agree** and **there are no conflicts** accept the pull request.
 - Make sure everyone knows there are new changes available to be pulled down.
 - **EVERYONE** save edits to working branch and and update all local branches.
     - `git add -A && git commit -m "message"` in working branch.

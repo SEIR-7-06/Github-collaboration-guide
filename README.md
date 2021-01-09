@@ -27,7 +27,7 @@
     - `git checkout submaster`
     - `git pull origin submaster`
 - **IF THERE ARE UPDATES** to **submaster** merge updates to working branch.
-    - `git checkout <branch name>` (i.e. Kenny)
+    - `git checkout <branch name>` (i.e. your name)
     - `git merge submaster`
     - `git push origin <branch name>`
 

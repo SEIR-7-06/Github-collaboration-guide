@@ -29,6 +29,7 @@
 - **IF THERE ARE UPDATES** to **submaster** merge updates to working branch.
     - `git checkout <branch name>` (i.e. Kenny)
     - `git merge submaster`
+    - `git push origin <branch name>`
 
 - **IF THERE ARE NO UPDATES** to **submaster**, checkout your working branch and push to origin.
     - `git checkout <branch name>`

@@ -68,4 +68,4 @@ Pick one team member to go through the following steps to add a feature while sh
 
     - `git merge main`
 
-Repeat [Workflow for Adding a Feature](#workflow-for-adding-a-feature) with the other team member. Continue alternating [Workflow for Adding a Feature](#workflow-for-adding-a-feature) with one team member adding a feature and then the other team member adding a feature.
+Repeat [Workflow for Adding a Feature](#workflow-for-adding-a-feature) now with the other team member adding a feature. Continue alternating [Workflow for Adding a Feature](#workflow-for-adding-a-feature) with one team member adding a feature and then the other team member adding a feature.

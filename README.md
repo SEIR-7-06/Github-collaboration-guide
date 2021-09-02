@@ -1,6 +1,6 @@
 # Github Collaboration Workflow
 
-For this activity we will work in pairs.
+For this activity we will work in pairs and pick one team member to be Team Member A and one to be Team Member B.
 
 ## Set Up
 1. Have Team Member A create a brand new repo in Github while sharing their screen.

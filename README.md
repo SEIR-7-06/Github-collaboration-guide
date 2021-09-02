@@ -3,7 +3,7 @@
 For this activity we will work in pairs.
 
 ## Set Up
-1. Have Team Member A create a brand new repo in Github.
+1. Have Team Member A create a brand new repo in Github while sharing their screen.
     - Make it public
     - do not add a readme or any files on initialization
 
@@ -23,7 +23,7 @@ For this activity we will work in pairs.
 
 ## Workflow for Adding a Feature
 
-Pick one team member to go through the following steps to add a feature.
+Pick one team member to go through the following steps to add a feature while sharing their screen.
 
 - verify you are on the main branch
     - `git branch`

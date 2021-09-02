@@ -56,7 +56,7 @@ Pick one team member to go through the following steps to add a feature while sh
 
 - Make sure everyone knows there are new changes available to be pulled down.
 
-- **EVERYONE** (including Team Member B) save edits to their working branch and and update all local branches.
+- **EVERYONE** (including team member making the changes) save edits to their working branch and and update all local branches.
 
     - `git add -A && git commit -m "message"` in working branch.
 

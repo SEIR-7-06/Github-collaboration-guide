@@ -1,6 +1,8 @@
 # Github Collaboration Workflow
 
-For this activity we will work in pairs and pick one team member to be Team Member A and one to be Team Member B.
+For this activity we'll be getting practice with team collaboration with Git and Github.
+
+Split into groups of two and pick one team member to be Team Member A and one to be Team Member B.
 
 ## Set Up
 1. Have Team Member A create a brand new repo in Github while sharing their screen.

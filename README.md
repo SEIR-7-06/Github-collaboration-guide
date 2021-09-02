@@ -5,7 +5,7 @@ For this activity we'll be getting practice with team collaboration with Git and
 Split into groups of two and pick one team member to be Team Member A and one to be Team Member B.
 
 ## Set Up
-1. Have Team Member A create a brand new repo in Github while sharing their screen.
+1. Have Team Member A share their screen and create a brand new repo in Github.
     - Make it public
     - do not add a readme or any files on initialization
 
@@ -25,7 +25,7 @@ Split into groups of two and pick one team member to be Team Member A and one to
 
 ## Workflow for Adding a Feature
 
-Pick one team member to go through the following steps to add a feature while sharing their screen.
+Pick one team member to share their screen while going through the following steps to add a feature.
 
 - verify you are on the main branch
     - `git branch`

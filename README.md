@@ -16,7 +16,7 @@ Split into groups of two and pick one team member to be Team Member A and one to
     - Team Member B can then check their email and accept the invitation
 
 1. Have Team Member A create the project boilerplate.
-    - Team Member A clones down the repo to their local machine.
+    - Team Member A clones down the empty repo to their local machine.
     - Team Member A creates an HTML file and adds some basic code.
     - Add and commit your work.
     - `git push origin main`

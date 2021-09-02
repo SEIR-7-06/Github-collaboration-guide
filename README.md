@@ -1,6 +1,6 @@
 # Github Collaboration Workflow
 
-For this activity we'll be getting practice with team collaboration with Git and Github.
+The goal for this activity is to practice Github collaboration with branching. We'll be creating separate branches to do our work and then merging out work back in to the `main` branch. 
 
 Split into groups of two and pick one team member to be Team Member A and one to be Team Member B.
 

@@ -18,7 +18,7 @@ Split into groups of two and pick one team member to be Team Member A and one to
 1. Have Team Member A create the project boilerplate.
     - Team Member A clones down the empty repo to their local machine.
     - Team Member A creates an HTML file and adds some basic code.
-    - Add and commit your work.
+    - Team Member A adds and commits their work.
     - `git push origin main`
 
 1. Have Team Member B clone down the project.

@@ -30,6 +30,9 @@ Pick one team member to share their screen while going through the following ste
 - verify you are on the main branch
     - `git branch`
 
+- If you are not on the main branch
+    - `git checkout main`
+
 - create a new working branch of off the main branch
     - `git checkout -b <branch name>` (replace `<branch name>` with what you'd like to name your branch)
 
